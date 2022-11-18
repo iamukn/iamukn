@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @iamukn
-- 👀 I’m interested in Software Engineering && Cloud Computing
+- 👋 Hi,my name is Ndukwe Ukaegbu
+- 👀 I’m interested in Software Engineering and Cloud Computing
 - 🌱 I’m currently learning SE with ALX && Freecodecamp
 - 💞️ I’m looking to collaborate with anyone on a project
 - 📫 Reach me via n.u.kingsley@gmail.com
