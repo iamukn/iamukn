@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamukn
+_ Hello there, My name is kingsley, I love to code and to study , i also love playing soccer.
 - 👀 I’m interested in Software Engineering && Cloud Computing
 - 🌱 I’m currently learning SE with ALX && Freecodecamp
 - 💞️ I’m looking to collaborate with anyone on a project
